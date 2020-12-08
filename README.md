@@ -88,9 +88,9 @@ Questa naturalmente è la nostra idea di realizzazione, se volete integrare o mo
 
 Ricordatevi che nessuno di questi task è impossibile o estremamente complesso, come in tutte le cose c’è una via semplice, che spesso è la migliore!
 
-**ALCUNI LINK CON UNA NOSTRA PROPOSTA DI LAYOUT**
+**ALCUNI LINK CON UNA NOSTRA PROPOSTA DI LAYOUT:**
 
-Utente normale: https://www.figma.com/proto/FJeDf45hOjjIf5EsNHU3sO/Talent-Garden---UI?node-id=1%3A2&viewport=537%2C419%2C0.25681939721107483&scaling=scale-down
-Utente admin: https://www.figma.com/proto/FJeDf45hOjjIf5EsNHU3sO/Talent-Garden---UI?node-id=1%3A2200&viewport=1086%2C366%2C0.26336854696273804&scaling=min-zoom
+ * Utente normale: https://www.figma.com/proto/FJeDf45hOjjIf5EsNHU3sO/Talent-Garden---UI?node-id=1%3A2&viewport=537%2C419%2C0.25681939721107483&scaling=scale-down
+ * Utente admin: https://www.figma.com/proto/FJeDf45hOjjIf5EsNHU3sO/Talent-Garden---UI?node-id=1%3A2200&viewport=1086%2C366%2C0.26336854696273804&scaling=min-zoom
 
 
